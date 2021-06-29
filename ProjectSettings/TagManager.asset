@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - FLOOR
+  - Mgr
+  - Text
+  - Wall
+  - Viedo
+  - OBSTACLE
+  - SPACEGARBAGE
   layers:
   - Default
   - TransparentFX
